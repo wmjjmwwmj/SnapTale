@@ -1,9 +1,11 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/wmjjmwwmj/VMBook-Back.git
+	branch = production
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/WSQsGithub/VMBook-Front
+	branch = production
 [submodule "firmware"]
 	path = firmware
 	url = https://github.com/WSQsGithub/VMBook-Firmware
