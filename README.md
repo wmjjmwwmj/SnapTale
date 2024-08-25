@@ -1,6 +1,11 @@
 # SnapTale
 Record your life on the fly!
 
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](//player.bilibili.com/player.html?isOutside=true&aid=113000438565432&bvid=BV13XWaecEYa&cid=500001657377903&p=1)
+
+
+
 ## Tech Stacks
 
 - **Backend**: Powered by [FastAPI](https://fastapi.tiangolo.com/) and [MySQL](https://www.mysql.com/).
