@@ -1,10 +1,9 @@
 # SnapTale
 Record your life on the fly!
 
-
+## Demo Video
 [![Watch the video](https://private-user-images.githubusercontent.com/92306318/361183231-810777d6-1446-4bcb-b83b-b22fcde3e2ee.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ1NTY1NjQsIm5iZiI6MTcyNDU1NjI2NCwicGF0aCI6Ii85MjMwNjMxOC8zNjExODMyMzEtODEwNzc3ZDYtMTQ0Ni00YmNiLWI4M2ItYjIyZmNkZTNlMmVlLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODI1VDAzMjQyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3YmZlZTBhM2Y5ZTRjMDY3ODg4YWNmOTZjNzg4NTgyNmE1ZmRkYmRiMDhmN2QyZTVkNDFmZWU2MjA1MDk0OTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.4Id4yuHl5vjdN6PHmGmLvixVIqZ1pt3RstoKZ2ccqag)](//player.bilibili.com/player.html?isOutside=true&aid=113000438565432&bvid=BV13XWaecEYa&cid=500001657377903&p=1)
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113000438565432&bvid=BV13XWaecEYa&cid=500001657377903&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 
 ## Tech Stacks
